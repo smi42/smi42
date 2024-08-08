@@ -12,7 +12,8 @@ im a Developer based in Germany
   
 📈 my github stats
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=smi42&show_icons=true&theme=gotham" alt="smi42 />
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=smi42&show_icons=true&theme=gotham" alt="smi42 /><br>
+
 
 
 Visitor Count:
