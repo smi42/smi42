@@ -15,4 +15,6 @@ im a Developer based in Germany
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=smi42&show_icons=true&theme=gotham" alt="smi42 />
 
 
+Visitor Count:
 ![Visitor Count](https://profile-counter.glitch.me/{smi42}/count.svg)
+
