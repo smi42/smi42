@@ -1,4 +1,4 @@
-## Hi there 👋 my name is Patrick Klein 
+## Hi there 👋 my name is Patrick
 I'm a Developer based in Germany 
 
 - 🔭 I’m currently working on something cool 😉
