@@ -1,7 +1,7 @@
 ## Hi there 👋 my name is Patrick
 I'm a Developer based in Germany 
 
-- 🔭 I’m currently working on something cool 😉
+- 🔭 I’m currently working on  E-Invoices
 - 🌱 I’m currently learning Next.JS 
 - 💬 Ask me about Java or Web Design in general
 - ⚡ Fun fact: smi
